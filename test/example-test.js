@@ -2,7 +2,7 @@ var expect = require('expect.js');
 
 
 describe('dummy test', function() {
-  it('passes', function(){
-    expect(1).to.be(1)
+  it('should pass', function(){
+    expect(1).to.be(2)
   })
 })
