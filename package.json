@@ -1,0 +1,25 @@
+{
+  "name": "example-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eda-classroom/example-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eda-classroom/example-challenge/issues"
+  },
+  "homepage": "https://github.com/eda-classroom/example-challenge#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
